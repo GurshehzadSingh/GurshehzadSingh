@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I also work as an Open Source Contributor and you can see my contributed codes for various companies in my Repository Section.
 
 <p align="center">
-  <a href="https://gurshehzad-singh-portfolio.netlify.app/"><img src="https://avatars.githubusercontent.com/u/65964948?v=4"</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://gurshehzad-singh-portfolio.netlify.app/"><img src="https://avatars.githubusercontent.com/u/65964948?v=4" height="200" width="220"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=GurshehzadSingh&show_icons=true" alt="Gurshehzad Singh">
 </p>
 <p align="center">
