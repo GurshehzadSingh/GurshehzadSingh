@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h1 align="center"> Hi there, I am Gurshehzad Singh 👋</h1>
+
+- 🔭 I'm currently working as a Lead Web Developer Intern at <a href="https://devincept.tech/" target="_blank">DevIncept</a> and as a MERN Stack Developer Intern at <a href="https://thetropezgroup.com/" target="_blank">The Tropez Group</a>. I work as a Technical Blogger at <a href="https://dev.to/gurshehzadsingh" target="_blank">DEV Community</a> <a href="https://dev.to/gurshehzadsingh"> <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gurshehzad Singh's DEV Community Profile" height="30" width="30"></a>.
+- 💬 Ask me anything about <strong>C++, JavaScript, React, NodeJs, Flutter, Android, Firebase.</strong>
+-🌱 I’m currently learning <strong>System Design, Machine Learning and Artificial Intelligence.</strong>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/gurshehzadsingh/" target="_blank">Gurshehzad Singh</a>     
+- ⚡ Fun fact: I also work as an Open Source Contributor and you can see my contributed codes for various companies in my Repository Section.
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=GurshehzadSingh&show_icons=true" alt="Gurshehzad Singh">
+</p>
+<p>
+<a href="https://www.linkedin.com/in/gurshehzadsingh/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a>
+</p>
