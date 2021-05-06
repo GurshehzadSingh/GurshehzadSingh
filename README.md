@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Hi there, I am Gurshehzad Singh 👋</h1>
 
-- 🔭 I'm currently working as a Lead Web Developer Intern at <a href="https://devincept.tech/" target="_blank">DevIncept</a> and as a MERN Stack Developer Intern at <a href="https://thetropezgroup.com/" target="_blank">The Tropez Group</a>. I work as a Technical Blogger at <a href="https://dev.to/gurshehzadsingh" target="_blank">DEV Community</a>.
+- 🔭 I'm currently working as a Lead Web Developer Intern at <a href="https://devincept.tech/" target="_blank">DevIncept</a> and as a MERN Stack Developer Intern at <a href="https://thetropezgroup.com/" target="_blank">The Tropez Group</a>. I also work as a Technical Blogger at <a href="https://dev.to/gurshehzadsingh" target="_blank">DEV Community</a>.
 - 💬 Ask me anything about <strong>C++, JavaScript, React, NodeJs, Flutter, Android, Firebase.</strong>
 - 🌱 I’m currently learning <strong>System Design, Machine Learning and Artificial Intelligence.</strong>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/gurshehzadsingh/" target="_blank">Gurshehzad Singh</a>&nbsp;
