@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/gurshehzadsingh/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a>
-</p>&nbsp;&nbsp;&nbsp;&nbsp;
-<p align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://dev.to/gurshehzadsingh"> <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gurshehzad Singh's DEV Community Profile" height="30" width="30"></a>
-</p>
+<p>
