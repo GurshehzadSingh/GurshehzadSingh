@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Hi there, I am Gurshehzad Singh 👋</h1>
 
-- 🔭 I'm currently working as a Lead Web Developer Intern at <a href="https://devincept.tech/" target="_blank">DevIncept</a> and as a MERN Stack Developer Intern at <a href="https://thetropezgroup.com/" target="_blank">The Tropez Group</a>. I work as a Technical Blogger at <a href="https://dev.to/gurshehzadsingh" target="_blank">DEV Community</a> <a href="https://dev.to/gurshehzadsingh"> <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gurshehzad Singh's DEV Community Profile" height="30" width="30"></a>.
+- 🔭 I'm currently working as a Lead Web Developer Intern at <a href="https://devincept.tech/" target="_blank">DevIncept</a> and as a MERN Stack Developer Intern at <a href="https://thetropezgroup.com/" target="_blank">The Tropez Group</a>. I work as a Technical Blogger at <a href="https://dev.to/gurshehzadsingh" target="_blank">DEV Community</a>.
 - 💬 Ask me anything about <strong>C++, JavaScript, React, NodeJs, Flutter, Android, Firebase.</strong>
 - 🌱 I’m currently learning <strong>System Design, Machine Learning and Artificial Intelligence.</strong>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/gurshehzadsingh/" target="_blank">Gurshehzad Singh</a>&nbsp;
@@ -31,4 +31,7 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/gurshehzadsingh/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a>
+</p>&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
+<a href="https://dev.to/gurshehzadsingh"> <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gurshehzad Singh's DEV Community Profile" height="30" width="30"></a>
 </p>
